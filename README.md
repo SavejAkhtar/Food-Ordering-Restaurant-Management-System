@@ -84,8 +84,7 @@ The system also provides separate functionality for Restaurant Owners, Delivery 
 
 ## Project Structure
 
-```text
-FoodHub/
+`FoodHub/
 │
 ├── Backend/
 │   ├── config/
@@ -106,14 +105,12 @@ FoodHub/
 │   ├── package.json
 │   └── vite.config.js
 │
-│  
-└── ER-Diagram.png
-└── Postman_collection.json
-├── Database-Schema.md   
+├── ER-Diagram.png
+├── Postman_collection.json
+├── Database-Schema.md
 ├── API-Documentation.md
-└── docker-compose.yml
+├── docker-compose.yml
 └── README.md
-```
 
 ---
 
@@ -350,7 +347,7 @@ Role: restaurantOwner
 ### Delivery Partner
 
 ```text
-Email: deliver@gmail.com
+Email: delivery@gmail.com
 Role: deliveryPartner
 ```
 
