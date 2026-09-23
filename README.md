@@ -84,7 +84,8 @@ The system also provides separate functionality for Restaurant Owners, Delivery 
 
 ## Project Structure
 
-`FoodHub/
+```text
+FoodHub/
 │
 ├── Backend/
 │   ├── config/
@@ -111,8 +112,7 @@ The system also provides separate functionality for Restaurant Owners, Delivery 
 ├── API-Documentation.md
 ├── docker-compose.yml
 └── README.md
-
----
+```
 
 ## Local Setup
 
