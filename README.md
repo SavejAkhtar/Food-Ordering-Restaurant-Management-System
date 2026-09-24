@@ -290,8 +290,8 @@ MongoDB is hosted on MongoDB Atlas.
 ## Deployment
 
 ```text
-Frontend  → Vercel
-Backend   → Render
+Frontend  → [Vercel](https://food-ordering-restaurant-management.vercel.app/)
+Backend   → [Render](https://foodhub-backend-kg38.onrender.com/)
 Database  → MongoDB Atlas
 ```
 
